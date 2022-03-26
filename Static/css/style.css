@@ -1,0 +1,9 @@
+body {
+    color: #f7f7f7;
+  }
+
+.jumbotron {
+  background-image: url("C:\Users\tejed\Curso_tec\Modulo 12\Challenge\data-12-4-3-resources\Static\bacteria.");
+  background-size: 100% 100%;
+  text-align: center;
+}
